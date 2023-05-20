@@ -52,7 +52,8 @@ Así, sigueme en esta aventura de desarrollar una aplicación donde deberé desa
 5. Desarrollo de 2 CheckBox: Normativa - Ley
 6. Desarrollo de Button"Enviar inspeccion en PDF y lista de correo.
 
-
+Y te invito a conocer la maqueta que hice 10 años atras y que hoy estoy mas cercano de materializar. Ayudame a hacerlo.
+![](David proyecto.pdf)
 
 
 
